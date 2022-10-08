@@ -1,0 +1,47 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  border: 1px solid #0ea5e9;
+  border-radius: 10px;
+  margin: 10px;
+  width: 30%;
+}
+.para-container {
+  width: 33%;
+  text-align: center;
+  padding: 10px;
+}
+.para {
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500;
+  color: white;
+}
+.delete-logo {
+  background-color: transparent;
+  width: 30px;
+}
+.delete-button {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+  width: 33%;
+}
+.list-logo {
+  margin: 10px;
+  background-color: #10b981;
+  height: 40px;
+  width: 40px;
+  border-radius: 30px;
+  padding: 10px;
+  font-family: Roboto;
+  font-size: 22px;
+  font-weight: 500;
+  color: white;
+  align-self: center;
+  text-align: center;
+}
+.star {
+  width: 100%;
+}
